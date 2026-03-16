@@ -9,6 +9,12 @@
 - **AI 辅助** - 自动收集客观数据并给出评分依据
 - **风险推演** - 识别潜在风险并制定应对策略
 
+## 安装
+
+```bash
+npx skills add zjf2671/tech-evaluator
+```
+
 ## 使用方法
 
 在 Code CLI 中调用：
